@@ -460,7 +460,7 @@
 			</xs:extension>
 		</xs:complexContent>
 	</xs:complexType>
-	<xs:complexType name="PlanDescriptionType">
+	<xs:complexType name="PlanDescriptionPropertyType">
 		<xs:sequence minOccurs="0">
 			<xs:element ref="kt:PlanDescription"/>
 		</xs:sequence>
